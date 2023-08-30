@@ -2,6 +2,8 @@
 
 [Main Data Logger project](https://github.com/polesskiy-dev/iot-risk-data-logger-nfc-samd21)
 
+[Interactive BOM](https://htmlpreview.github.io/?https://github.com/polesskiy-dev/iot-risk-data-logger-nfc-samd21-hardware/blob/main/bom/ibom.html)
+
 ### PCB Renders
 
 <table>
