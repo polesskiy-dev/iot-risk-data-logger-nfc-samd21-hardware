@@ -14,10 +14,10 @@ https://github.com/polesskiy-dev/iot-risk-data-logger-nfc-samd21/assets/5185707/
 
 <table>
   <tr>
-    <td> <img src="https://github.com/polesskiy-dev/iot-risk-data-logger-nfc-samd21-hardware/blob/main/docs/assets/iot-data-logger-nfc-samd21-top.png"  alt="top" ></td>
+    <td> <img max-width="600px" src="https://github.com/polesskiy-dev/iot-risk-data-logger-nfc-samd21-hardware/blob/main/docs/assets/iot-data-logger-nfc-samd21-top.png"  alt="top" ></td>
    </tr> 
    <tr>
-      <td><img src="https://github.com/polesskiy-dev/iot-risk-data-logger-nfc-samd21-hardware/blob/main/docs/assets/iot-data-logger-nfc-samd21-bottom.png" alt="bottom"></td>
+    <td><img max-width="600px" src="https://github.com/polesskiy-dev/iot-risk-data-logger-nfc-samd21-hardware/blob/main/docs/assets/iot-data-logger-nfc-samd21-bottom.png" alt="bottom"></td>
   </tr>
 </table>
 
